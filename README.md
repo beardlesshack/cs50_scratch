@@ -1,5 +1,6 @@
 # cs50_scratch
-week0 work files
+cookie_bites
+game i made with scratch
 # had trouble to get scores off splash screen while in static mode,,
 # couldnt find way to code stop screen actions with blocks, 
 
